@@ -1,0 +1,443 @@
+@media screen and (max-width: 1300px){
+    
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 54%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero{
+        min-height: 100vh;
+    }
+    .hero .container-section{
+        min-height: 100vh;
+    }
+    .hero .container-section img{
+        width: 350px;
+        margin-left: 4%;
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 33px;
+    }
+    /* End Skills */
+}
+
+@media screen and (max-width: 1200px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 60%;
+    }
+    header .logo{
+        margin-left: 40px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 35px;
+    }
+    /* End Navigation Bar */
+}
+
+@media screen and (max-width: 1100px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 350px;
+        margin-left: 10%;
+    }
+    .hero .container-section .hero-text{
+        max-width: 450px; 
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 20px;
+    }
+    /* End Skills */
+}
+
+@media screen and (max-width: 1000px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    header .logo{
+        margin-left: 20px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 10px;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 320px;
+        margin-left: 8%;
+    }
+    .hero .container-section .hero-text{
+        max-width: 450px; 
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 15px;
+    }
+    /* End Skills */
+}
+
+@media screen and (max-width: 900px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 50%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 300px;
+    }
+    .hero .container-section .hero-text{
+        max-width: 350px; 
+    }
+    .hero .container-section .hero-text h1{
+        font-size: 3em;
+    }
+    .hero .container-section .hero-text h3{
+        font-size: 1em;
+    }
+    .hero .container-section .hero-text p{
+        font-size: 0.8em;
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 20px;
+    }
+    .skill .container-section .skill-content h1{
+        font-size: 3em;
+    }
+    .skill .container-section .card img{
+        width: 80px;
+    }
+    /* End Skills */
+
+
+    /* Certification */
+    .certif .container-section .certif-content h1{
+        font-size: 3em;
+    }
+    .certif .container-section .card img{
+        width: 210px;
+    }
+    .certif .container-section .card .pm{
+        width: 250px;
+        margin-top: 16px;
+        margin-bottom: 7%;
+    }
+    .certif .container-section .card h3{
+        font-size: 1em;
+    }
+    /* End Certification */
+
+
+    /* Info */
+    .info .container-section .info-text h2{
+        font-size: 1em;
+        font-weight: 700;
+    }
+    /* End Info */
+}
+
+@media screen and (max-width: 800px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 43%;
+    }
+    header .logo{
+        margin-left: 15px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 3px;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 250px;
+    }
+    .hero .container-section .hero-text{
+        max-width: 320px; 
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 12px;
+    }
+    /* End Skills */
+
+
+    /* Certification */
+    .certif .container-section .card{
+        text-align: center;
+        margin: 50px;
+    }
+    .certif .container-section .certif-content h1{
+        margin-bottom: 2%;
+    }
+    /* End Certification */
+
+
+    /* Info */
+    .info{
+        min-height: 30vh;
+    }
+    .info .container-section{
+        min-height: 30vh;
+    }
+    /* End Info */
+
+}
+
+@media screen and (max-width: 700px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 35%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 250px;
+    }
+    .hero .container-section .hero-text{
+        max-width: 200px; 
+    }
+    .hero .container-section .hero-text h1{
+        font-size: 2em;
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 20px;
+    }
+    .skill .container-section .skill-content h1{
+        font-size: 2em;
+    }
+    .skill .container-section .card img{
+        width: 50px;
+    }
+    .skill .container-section .card h3{
+        font-weight: 500;
+        font-size: 0.8em;
+    }
+    /* End Skills */
+
+
+    /* Certification */
+    .certif .container-section .card img{
+        width: 180px;
+    }
+    .certif .container-section .card .pm{
+        width: 180px;
+        margin-top: 16px;
+        margin-bottom: 20%;
+    }
+    .certif .container-section .card h3{
+        font-size: 0.8em;
+    }
+    .certif .container-section .certif-content h1{
+        font-size: 2em;
+    }
+    /* End Certification */
+}
+
+@media screen and (max-width: 600px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 28%;
+    }
+    /* End Navigation Bar */
+    
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 300px;
+        margin-right: 7%;
+    }
+    .hero .container-section .hero-text{
+        max-width: 400px;
+        position: absolute;
+        bottom: -5%;
+    }
+    .hero .container-section .hero-text h1{
+        text-align: center;
+    }
+    .hero .container-section .hero-text h3{
+        text-align: center;
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill .container-section .card{
+        margin: 10px;
+    }
+    .skill .container-section .card img{
+        width: 50px;
+    }
+    .skill .container-section .card h3{
+        font-size: 0.8em;
+    }
+    /* End Skills */
+
+
+    /* Certification */
+    
+    .certif .container-section .card{
+        text-align: center;
+        margin: 25px;
+    }
+    /* End Certification */
+
+}
+
+@media screen and (max-width: 500px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 1%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 280px;
+        margin-right: 7%;
+    }
+    .hero .container-section .hero-text{
+        max-width: 300px;
+        position: absolute;
+        left: 12%;
+        bottom: -5%;
+    }
+    /* End Hero*/
+
+
+    /* Skills */
+    .skill{
+        width: 100%;
+        min-height: 180vh;
+    }
+    .skill .container-section{
+        width: 100%;
+        min-height: 180vh;
+        margin-top: 50%;
+    }
+    .skill .container-section .card-content{
+        display: grid;
+    }
+    .skill .container-section .card img{
+        width: 90px;
+    }
+    .skill .container-section .card{
+        margin: 20px;
+    }
+    /* End Skills */
+    
+
+    /* Certificate */
+    .certif .container-section .card-content{
+        display: grid;
+    }
+    /* End Certificate */
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    /* End Footer */
+}
+
+@media screen and (max-width: 400px){
+
+    /* Navigation Bar */
+    header .logo{
+        font-size: 1.2em;
+    }
+    header .icon a{
+        margin: 0px 10px;
+    }
+    .link-nav li a{
+        font-size: 1.2em;
+    }
+    /* End Navigation Bar */
+
+
+    /* Hero*/
+    .hero .container-section img{
+        width: 250px;
+        margin-right: 7%;
+    }
+    .hero .container-section .hero-text{
+        max-width: 250px;
+        position: absolute;
+        left: 12%;
+        bottom: -10%;
+    }
+    .hero .container-section .hero-text h1{
+        font-size: 1.8em;
+    }
+    /* End Hero*/
+
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    footer .fr .logo{
+        font-size: 1.2em;
+    }
+    /* End Footer */
+}
