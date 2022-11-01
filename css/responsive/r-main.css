@@ -1,0 +1,745 @@
+@media screen and (max-width: 1300px){
+    
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 54%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Project */
+    .project-1 .container-section img{
+        width: 600px; 
+    }
+    .project-1 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-1 .container-section .content-text{
+        max-width: 400px;
+    }
+    .project-1 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+
+
+    .project-2 .container-section img{
+        width: 600px; 
+    }
+    .project-2 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-2 .container-section .content-text{
+        max-width: 400px;
+    }
+    .project-2 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+
+
+    .project-3 .container-section img{
+        width: 600px; 
+    }
+    .project-3 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-3 .container-section .content-text{
+        max-width: 400px;
+    }
+    .project-3 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+    /* End Project */
+}
+
+@media screen and (max-width: 1200px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 60%;
+    }
+    header .logo{
+        margin-left: 40px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 35px;
+    }
+    /* End Navigation Bar */
+}
+
+@media screen and (max-width: 1100px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    /* End Navigation Bar */
+
+    /* Intro */
+    .intro .container-section .content h1{
+        font-size: 4em;
+    }
+    /* End Intro */
+
+    /* Project */
+    .project-1{
+        min-height: 100vh; 
+    }
+    .project-1 .container-section{
+        min-height: 100vh;
+    }
+    .project-1 .container-section img{
+        width: 500px; 
+    }
+    .project-1 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-1 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+    .project-1 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-1 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 1em;
+    }
+
+
+    .project-2{
+        min-height: 100vh; 
+    }
+    .project-2 .container-section{
+        min-height: 100vh;
+    }
+    .project-2 .container-section img{
+        width: 500px; 
+    }
+    .project-2 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-2 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+    .project-2 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-2 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 1em;
+    }
+
+
+    .project-3{
+        min-height: 100vh; 
+    }
+    .project-3 .container-section{
+        min-height: 100vh;
+    }
+    .project-3 .container-section img{
+        width: 500px; 
+    }
+    .project-3 .container-section .content-text p{
+        font-size: 1em;
+        text-align: justify;
+    }
+    .project-3 .container-section .content-text h1{
+        font-size: 3.5em;
+    }
+    .project-3 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-3 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 1em;
+    }
+    /* End Project */
+
+
+    /* Contact */
+    .get-touch .container-section h1{
+        font-size: 4em;
+    }
+    .get-touch .container-section p{
+        font-size: 1em;
+    }
+    /* End Contact */
+}
+
+@media screen and (max-width: 1000px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    header .logo{
+        margin-left: 20px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 10px;
+    }
+    /* End Navigation Bar */
+
+
+    /* Project */
+    .project-1{
+        min-height: 100vh; 
+    }
+    .project-1 .container-section{
+        min-height: 100vh;
+    }
+    .project-1 .container-section img{
+        width: 450px; 
+    }
+    .project-1 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-1 .container-section .content-text h1{
+        font-size: 3em;
+    }
+    .project-1 .container-section .content-text h3{
+        font-size: 1em;
+    }
+    .project-1 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-1 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 0.8em;
+    }
+
+
+    /* Project */
+    .project-2{
+        min-height: 100vh; 
+    }
+    .project-2 .container-section{
+        min-height: 100vh;
+    }
+    .project-2 .container-section img{
+        width: 450px; 
+    }
+    .project-2 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-2 .container-section .content-text h1{
+        font-size: 3em;
+    }
+    .project-2 .container-section .content-text h3{
+        font-size: 1em;
+    }
+    .project-2 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-2 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 0.8em;
+    }
+
+
+    /* Project */
+    .project-3{
+        min-height: 100vh; 
+    }
+    .project-3 .container-section{
+        min-height: 100vh;
+    }
+    .project-3 .container-section img{
+        width: 450px; 
+    }
+    .project-3 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-3 .container-section .content-text h1{
+        font-size: 3em;
+    }
+    .project-3 .container-section .content-text h3{
+        font-size: 1em;
+    }
+    .project-3 .container-section .content-text hr{
+        height: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .project-3 a{
+        padding: 10px 60px;
+        margin-top: -5%;
+        font-size: 0.8em;
+    }
+    /* End Project */
+}
+
+@media screen and (max-width: 900px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 50%;
+    }
+    /* End Navigation Bar */
+
+    /* Project */
+    .project-1 .container-section .content-text{
+        max-width: 320px;
+    }
+    .project-1 .container-section img{
+        width: 390px; 
+    }
+
+    .project-2 .container-section .content-text{
+        max-width: 320px;
+    }
+    .project-2 .container-section img{
+        width: 390px; 
+    }
+
+    .project-3 .container-section .content-text{
+        max-width: 320px;
+    }
+    .project-3 .container-section img{
+        width: 390px; 
+    }
+    /* End Project */
+}
+
+@media screen and (max-width: 800px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 43%;
+    }
+    header .logo{
+        margin-left: 15px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 3px;
+    }
+    /* End Navigation Bar */
+
+
+    /* Intro */
+    .intro .container-section .content h1{
+        font-size: 3em;
+    }
+    /* End Intro */
+
+
+    /* Project */
+    .project-1 .container-section .content-text{
+        max-width: 250px;
+    }
+    .project-1 .container-section img{
+        width: 390px; 
+    }
+    .project-1 .container-section .content-text h1{
+        font-size: 2em;
+    }
+    .project-1 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-1 a{
+        padding: 10px 60px;
+        margin-top: -10%;
+        font-size: 0.8em;
+    }
+
+
+    .project-2 .container-section .content-text{
+        max-width: 250px;
+    }
+    .project-2 .container-section img{
+        width: 390px; 
+    }
+    .project-2 .container-section .content-text h1{
+        font-size: 2em;
+    }
+    .project-2 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-2 a{
+        padding: 10px 60px;
+        margin-top: -10%;
+        font-size: 0.8em;
+    }
+
+
+    .project-3 .container-section .content-text{
+        max-width: 250px;
+    }
+    .project-3 .container-section img{
+        width: 390px; 
+    }
+    .project-3 .container-section .content-text h1{
+        font-size: 2em;
+    }
+    .project-3 .container-section .content-text p{
+        font-size: 0.8em;
+        text-align: justify;
+    }
+    .project-3 a{
+        padding: 10px 60px;
+        margin-top: -10%;
+        font-size: 0.8em;
+    }
+    /* End Project */
+
+
+    /* Contact */
+    .get-touch .container-section h1{
+        font-size: 3em;
+    }
+    .get-touch .container-section p{
+        font-size: 0.8em;
+    }
+    .get-touch .container-section .icon-gt a{
+        width: 40px;
+        height: 40px;
+        line-height: 65px;
+    }
+    /* End Contact */
+}
+
+@media screen and (max-width: 700px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 35%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Intro */
+    .intro .container-section .content h1{
+        font-size: 2.5em;
+    }
+    /* End Intro */
+
+
+    /* Project */
+    .project-1 .container-section img{
+        width: 450px;
+        margin-bottom: 50%; 
+    }
+    .project-1 .container-section .content-text{
+        max-width: 520px;
+        text-align: center;
+        position: absolute;
+        left: 20%;
+        top: 48%;
+    }
+    .project-1 a{
+        position: absolute;
+        display: inline-block;
+        right: 42%;
+        bottom: -10%;
+    }
+    .project-1 .container-section .content-text p{
+        text-align: justify;
+    }
+    .project-1 .container-section .content-text h3{
+        visibility: hidden;    
+    }
+
+
+    .project-2 .container-section img{
+        width: 450px;
+        margin-bottom: 50%; 
+    }
+    .project-2 .container-section .content-text{
+        max-width: 520px;
+        text-align: center;
+        position: absolute;
+        left: 20%;
+        top: 48%;
+    }
+    .project-2 a{
+        position: absolute;
+        display: inline-block;
+        right: 42%;
+        bottom: -10%;
+    }
+    .project-2 .container-section .content-text p{
+        text-align: justify;
+    }
+    .project-2 .container-section .content-text h3{
+        visibility: hidden;
+    }
+
+
+    .project-3 .container-section img{
+        width: 450px;
+        margin-bottom: 50%; 
+    }
+    .project-3 .container-section .content-text{
+        max-width: 520px;
+        text-align: center;
+        position: absolute;
+        left: 20%;
+        top: 48%;
+    }
+    .project-3 a{
+        position: absolute;
+        display: inline-block;
+        right: 42%;
+        bottom: -10%;
+    }
+    .project-3 .container-section .content-text p{
+        text-align: justify;
+    }
+    .project-3 .container-section .content-text h3{
+        visibility: hidden;
+    }
+    /* End Project */
+
+
+    /* Contact */
+    .get-touch .container-section h1{
+        font-size: 2.5em;
+    }
+    /* End Contact */
+
+}
+
+@media screen and (max-width: 600px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 28%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Project */
+    .project-1 .container-section img{
+        width: 400px;
+        margin-bottom: 50%; 
+    }
+    .project-1 .container-section .content-text{
+        left: 15%;
+    }
+    .project-1 a{
+        right: 40%;
+    }
+
+
+    .project-2 .container-section img{
+        width: 400px;
+        margin-bottom: 50%; 
+    }
+    .project-2 .container-section .content-text{
+        left: 13%;
+    }
+    .project-2 a{
+        right: 40%;
+    }
+
+
+    .project-3 .container-section img{
+        width: 400px;
+        margin-bottom: 50%; 
+    }
+    .project-3 .container-section .content-text{
+        left: 15%;
+    }
+    .project-3 a{
+        right: 40%;
+    }
+    /* End Project */
+}
+
+@media screen and (max-width: 500px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 1%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Intro */
+     .intro .container-section .content h1{
+        font-size: 2em;
+    }
+    /* End Intro */
+
+
+    /* Project */
+    .project-1 .container-section img{
+        width: 350px;
+        margin-bottom: 50%; 
+    }
+    .project-1 .container-section .content-text{
+        max-width: 600px;
+        text-align: center;
+        position: absolute;
+        left: 13%;
+        top: 50%;
+    }
+    .project-1 a{
+        position: absolute;
+        display: inline-block;
+        right: 31%;
+        bottom: -10%;
+    }
+
+
+    .project-2 .container-section img{
+        width: 350px;
+        margin-bottom: 50%; 
+    }
+    .project-2 .container-section .content-text{
+        max-width: 600px;
+        text-align: center;
+        position: absolute;
+        left: 13%;
+        top: 50%;
+    }
+    .project-2 a{
+        position: absolute;
+        display: inline-block;
+        right: 31%;
+        bottom: -10%;
+    }
+    .project-2 .container-section .content-text h1{
+        text-align: left;
+    }
+
+
+    .project-3 .container-section img{
+        width: 350px;
+        margin-bottom: 50%; 
+    }
+    .project-3 .container-section .content-text{
+        max-width: 600px;
+        text-align: center;
+        position: absolute;
+        left: 13%;
+        top: 50%;
+    }
+    .project-3 a{
+        position: absolute;
+        display: inline-block;
+        right: 31%;
+        bottom: -10%;
+    }
+    /* End Project */
+
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    /* End Footer */
+}
+
+@media screen and (max-width: 400px){
+
+    /* Navigation Bar */
+    header .logo{
+        font-size: 1.2em;
+    }
+    header .icon a{
+        margin: 0px 10px;
+    }
+    .link-nav li a{
+        font-size: 1.2em;
+    }
+    /* End Navigation Bar */
+
+
+    /* Intro */
+    .intro .container-section .content h1{
+        font-size: 1.5em;
+    }
+    /* End Intro */
+
+
+    /* Project */
+    .project-1 .container-section img{
+        width: 300px; 
+    }
+    .project-1 .container-section .content-text h1{
+        font-size: 1.5em;
+    }
+    .project-1 a{
+        right: 24%;
+    }
+
+
+    .project-2 .container-section img{
+        width: 300px; 
+    }
+    .project-2 .container-section .content-text h1{
+        font-size: 1.5em;
+    }
+    .project-2 a{
+        right: 24%;
+    }
+
+
+    .project-3 .container-section img{
+        width: 300px; 
+    }
+    .project-3 .container-section .content-text h1{
+        font-size: 1.5em;
+    }
+    .project-3 a{
+        right: 24%;
+    }
+    .project-3 .container-section .content-text{
+        left: 8%;
+    }
+    /* End Project */
+
+
+    /* Contact */
+    .get-touch .container-section h1{
+        font-size: 1.5em;
+    }
+    .get-touch .container-section p{
+        font-size: 0.8em;
+    }
+    /* End Contact */
+
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    footer .fr .logo{
+        font-size: 1.2em;
+    }
+    /* End Footer */
+}

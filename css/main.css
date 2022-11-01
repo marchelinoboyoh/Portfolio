@@ -358,7 +358,7 @@ li.fade {
     font-size: 5em;
     color: var(--textColor-2);
     letter-spacing: 1px;
-    text-align: justify;
+    text-align: left;
     font-weight: 700;
 }
 .project-2 .container-section .content-text hr{
