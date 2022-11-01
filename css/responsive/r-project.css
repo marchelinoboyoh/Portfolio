@@ -1,0 +1,215 @@
+@media screen and (max-width: 1300px){
+    
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 54%;
+    }
+    /* End Navigation Bar */   
+}
+
+@media screen and (max-width: 1200px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 60%;
+    }
+    header .logo{
+        margin-left: 40px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 35px;
+    }
+    /* End Navigation Bar */
+}
+
+@media screen and (max-width: 1100px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    /* End Navigation Bar */   
+}
+
+@media screen and (max-width: 1000px){
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 55%;
+    }
+    header .logo{
+        margin-left: 20px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 10px;
+    }
+    /* End Navigation Bar */
+}
+
+@media screen and (max-width: 900px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 50%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Content Page */
+    .text .container-section .content-text{
+        min-width: 150%;
+    }
+    /* End Content Page */
+}
+
+@media screen and (max-width: 800px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 43%;
+    }
+    header .logo{
+        margin-left: 15px;
+    }
+    .menu-btn {
+        margin-top: 28px;
+        margin-bottom: -10%;
+        margin-right: 3px;
+    }
+    /* End Navigation Bar */
+
+
+    /* Project 1 */
+    .project-1 .container-section .content-text h1{
+        font-size: 3em;
+    }
+    /* End Project 1 */
+
+
+    /* Project 2 */
+    .project-2 .container-section .content-text h1{
+        font-size: 3em;
+        text-align: center;
+        align-items: center;
+    }
+    /* End Project 2 */
+    
+    
+    /* Content Page */
+    .text .container-section .content-text h2{
+        font-size: 1.7em;
+    }
+    .text .container-section .content-text h3{
+        font-size: 1.5em;
+    }
+
+    .text .container-section .content-text p{
+        font-size: 0.8em;
+    }
+    .text .container-section .content-text li{
+        font-size: 0.8em;
+    }
+    .text .container-section .content-text img{
+        width: 520px;
+    }
+    .text .container-section .content-text .text-link{
+        font-size: 0.8;
+    }
+    /* End Content Page */
+
+}
+
+@media screen and (max-width: 700px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 35%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Content Page */
+    .text .container-section .content-text img{
+        width: 430px;
+    }
+    /* End Content Page */  
+}
+
+@media screen and (max-width: 600px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 28%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Content Page */
+    .text .container-section .content-text img{
+        width: 380px;
+    }
+    /* End Content Page */
+}
+
+@media screen and (max-width: 500px){
+
+    /* Navigation Bar */
+    header .icon{
+        margin-left: 1%;
+    }
+    /* End Navigation Bar */
+
+
+    /* Content Page */
+     .text .container-section .content-text img{
+        width: 310px;
+    }
+    /* End Content Page */
+
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    /* End Footer */
+}
+
+@media screen and (max-width: 400px){
+
+    /* Navigation Bar */
+    header .logo{
+        font-size: 1.2em;
+    }
+    header .icon a{
+        margin: 0px 10px;
+    }
+    .link-nav li a{
+        font-size: 1.2em;
+    }
+    /* End Navigation Bar */
+
+
+    /* Content Page */
+    .text .container-section .content-text img{
+        width: 270px;
+    }
+    /* End Content Page */
+
+
+    /* Footer */
+    footer{
+        padding: 10px 15px;
+    }
+    footer .fr p{
+        font-size: 0.8em;
+    }
+    footer .fr .logo{
+        font-size: 1.2em;
+    }
+    /* End Footer */
+}
